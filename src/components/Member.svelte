@@ -6,6 +6,8 @@
     let modal = false
 </script>
 
+
+
 <button class="member" on:click={() => modal = true}>
     <img src={member.data.image} alt={member.data.name}>
     <h3>{member.data.name}</h3>
