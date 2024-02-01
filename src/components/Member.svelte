@@ -1,7 +1,6 @@
 <script lang="ts">
     import type { CollectionEntry } from 'astro:content'
     import MemberModal from './MemberModal.svelte';
-
     export let member: CollectionEntry<'members'>
 
     let modal = false
