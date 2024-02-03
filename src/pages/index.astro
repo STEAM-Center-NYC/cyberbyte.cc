@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content'
 
 import '../styles/main.css'
 
-import Member from '../components/Member.svelte'
+import Member from '../components/Member.astro'
 
 let members = await getCollection('members')
 
@@ -58,7 +58,7 @@ members = members.filter(m => members.length > 1 ? m.slug !== 'template' : true)
 			<section id="team-members">
 				<h2>Who Are We?</h2>
 				<div class="member-list">
-					{members.map(member => <Member member={member} client:load />)}
+					{members.map(member => <Member member={member} />)}
 				</div>
 			</section>
 		</main>
