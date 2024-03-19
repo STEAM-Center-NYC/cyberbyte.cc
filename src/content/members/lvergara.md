@@ -7,7 +7,7 @@ interests:
     - Music
     - Coding
 image: /members/template.jpeg
-website: https://octocat.github.io
+website: https://Rgjmerc.github.io
 ---
 
 I am a 11th grader or junior in high school, going to school at the Brooklyn Steam Center, located in the
