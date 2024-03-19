@@ -5,7 +5,7 @@ interests:
     - Crochet
     - Sewing
     - Anime
-image: /members/Sammy.jpeg
+image: /members/Sammy.png
 website: https://itsasamantha.github.io
 ---
 
