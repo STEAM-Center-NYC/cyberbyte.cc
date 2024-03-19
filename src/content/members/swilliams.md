@@ -5,7 +5,7 @@ interests:
     - Anime
     - Skating
     - FootBall
-image: /members/20240216_135349.jpeg
+image: /members/20240216_135349.jpg
 website: https://GummmyRice21.github.io
 ---
 
