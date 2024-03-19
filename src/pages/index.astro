@@ -5,9 +5,7 @@ import '../styles/main.css'
 
 import Member from '../components/Member.astro'
 
-let members = await getCollection('members')
-
-members = members.filter(m => members.length > 1 ? m.slug !== 'template' : true)
+const members = await getCollection('members')
 
 ---
 
