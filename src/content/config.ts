@@ -5,7 +5,8 @@ const membersCollection = defineCollection({
     schema: z.object({
         name: z.string(),
         image: z.string(),
-        interests: z.array(z.string())
+        interests: z.array(z.string()),
+        website: z.string().url()
     })
 })
 
