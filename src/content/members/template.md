@@ -3,7 +3,7 @@ name: Leilani Dore
 interests: 
     - money
     - books
-image: /members/media.png
+image: /members/ldore.png
 website: https://leidoe07.github.io
 ---
 
