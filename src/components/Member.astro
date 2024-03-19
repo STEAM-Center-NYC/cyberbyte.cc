@@ -22,7 +22,9 @@ const { Content } = await member.render()
       <div class="modal-content" @click.outside="modal = false">
         <h2>{member.data.name}</h2>
         <button @click="modal = false" class="close">&times;</button>
-
+        <div>
+         <a href={member.data.website} target="_blank">Website</a>
+        </div>
         <article>
             <Content />
         </article>
