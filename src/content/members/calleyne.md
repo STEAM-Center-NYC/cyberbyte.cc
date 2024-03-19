@@ -3,7 +3,7 @@ name: Christian Alleyne
 interests: 
     - Gaming
     - Anime 
-image: /members/Christian;).jpeg
+image: /members/calleyne.jpg
 website: https://UltimateLifeform69.github.io
 ---
 
