@@ -7,8 +7,4 @@ image: /members/ldore.png
 website: https://leidoe07.github.io
 ---
 
-Bonbon marshmallow croissant danish jelly. Tiramisu carrot cake pudding sugar plum apple pie candy. Pie marzipan marzipan croissant liquorice cake biscuit. Shortbread danish candy cake halvah powder tiramisu bear claw jujubes.
-
-Gummi bears biscuit chupa chups carrot cake cupcake pastry tiramisu shortbread. Carrot cake pie macaroon fruitcake powder. Cake candy canes gummies ice cream sugar plum oat cake shortbread pastry croissant.
-
-Pudding fruitcake candy canes cotton candy chupa chups. Gingerbread cake croissant pie cotton candy. Tart pastry lollipop caramels cake tiramisu apple pie macaroon muffin. Jelly pastry candy muffin oat cake brownie cookie cupcake.
+Hi! Im Leilani Dore ,a student attending Bedford Academy and Brooklyn STEAM Center as a Junior. I was born and raised in Brooklyn, New York and enjoy reading, swimming, and video games. I also enjoy seeing how I can improve in everything I does is what motivates me to achieve my goals. Leilani sees her academics in both Bedford Academy and the STEAM program as a top priority and will do what she needs to so that she can fulfill her goals.
