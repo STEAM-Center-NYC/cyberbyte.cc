@@ -1,14 +1,16 @@
 ---
-name: Jane Doe
+name: Logan Vergara
 interests: 
     - Gaming
     - Anime
+    - Soccer
+    - Music
+    - Coding
 image: /members/template.jpeg
 website: https://octocat.github.io
 ---
 
-Bonbon marshmallow croissant danish jelly. Tiramisu carrot cake pudding sugar plum apple pie candy. Pie marzipan marzipan croissant liquorice cake biscuit. Shortbread danish candy cake halvah powder tiramisu bear claw jujubes.
-
-Gummi bears biscuit chupa chups carrot cake cupcake pastry tiramisu shortbread. Carrot cake pie macaroon fruitcake powder. Cake candy canes gummies ice cream sugar plum oat cake shortbread pastry croissant.
-
-Pudding fruitcake candy canes cotton candy chupa chups. Gingerbread cake croissant pie cotton candy. Tart pastry lollipop caramels cake tiramisu apple pie macaroon muffin. Jelly pastry candy muffin oat cake brownie cookie cupcake.
+I am a 11th grader or junior in high school, going to school at the Brooklyn Steam Center, located in the
+     Brooklyn Navy Yard in downtown Brooklyn. I enojy various activites such as sports and video games. I am currently expanding
+     my expertiese in Fullstack Development and am now HTML and CSS certified. I am an overall pretty social person and
+     enjoy passing time with friends, whether it may be online or in person.
