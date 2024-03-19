@@ -1,14 +1,18 @@
 ---
-name: Jane Doe
+name: Cycil Paynter
 interests: 
     - Gaming
+    - Working Out
+    - Skating
+    - Building Gundams
     - Anime
-image: /members/template.jpeg
-website: https://octocat.github.io
+image: /members/cycilintnt.jpg
+website: TIMPRO12.github.io
 ---
 
-Bonbon marshmallow croissant danish jelly. Tiramisu carrot cake pudding sugar plum apple pie candy. Pie marzipan marzipan croissant liquorice cake biscuit. Shortbread danish candy cake halvah powder tiramisu bear claw jujubes.
+Hi there 👋
+My name is Cycil Paynter, I'm 17 years old and I go to the STEAM CENTER at the BROOKLYN NAVY YARD.
 
-Gummi bears biscuit chupa chups carrot cake cupcake pastry tiramisu shortbread. Carrot cake pie macaroon fruitcake powder. Cake candy canes gummies ice cream sugar plum oat cake shortbread pastry croissant.
+My hobbies are playing videos games, running for fun, and building Gundams.
 
-Pudding fruitcake candy canes cotton candy chupa chups. Gingerbread cake croissant pie cotton candy. Tart pastry lollipop caramels cake tiramisu apple pie macaroon muffin. Jelly pastry candy muffin oat cake brownie cookie cupcake.
+My favorite top 3 fictional characters are 3. Simon 2. metal sonic 1. Perfect Cell.
