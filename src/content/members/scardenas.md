@@ -3,7 +3,7 @@ name: santiago cardenas
 interests: 
     - gaming /coding 
     - anime and more stuff 
-image: /members/santiago.jpeg
+image: /members/santiago.jpg
 website: https://lawandorder4.github.io
 ---
 
