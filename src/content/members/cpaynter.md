@@ -10,7 +10,7 @@ image: /members/cycilintnt.jpg
 website: TIMPRO12.github.io
 ---
 
-Hi there 👋
+Hi there
 My name is Cycil Paynter, I'm 17 years old and I go to the STEAM CENTER at the BROOKLYN NAVY YARD.
 
 My hobbies are playing videos games, running for fun, and building Gundams.
