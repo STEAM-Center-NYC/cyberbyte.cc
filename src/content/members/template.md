@@ -1,14 +1,12 @@
 ---
-name: Jane Doe
+name: santiago cardenas 
 interests: 
-    - Gaming
-    - Anime
-image: /members/template.jpeg
+    - gaming /coding 
+    - anime and more stuff 
+image: /members/santiago.jpeg
 website: https://octocat.github.io
 ---
 
-Bonbon marshmallow croissant danish jelly. Tiramisu carrot cake pudding sugar plum apple pie candy. Pie marzipan marzipan croissant liquorice cake biscuit. Shortbread danish candy cake halvah powder tiramisu bear claw jujubes.
+Hi my name is santiago and i like to cook and clean and work my homework (wink Wink😉) and im very social i would talk to anyone in this class and i wont get mad because thats how nice i am. Y'all should be gratefull frs and that is it for now i dont think ill be upating this so this will be all you read bye.
 
-Gummi bears biscuit chupa chups carrot cake cupcake pastry tiramisu shortbread. Carrot cake pie macaroon fruitcake powder. Cake candy canes gummies ice cream sugar plum oat cake shortbread pastry croissant.
-
-Pudding fruitcake candy canes cotton candy chupa chups. Gingerbread cake croissant pie cotton candy. Tart pastry lollipop caramels cake tiramisu apple pie macaroon muffin. Jelly pastry candy muffin oat cake brownie cookie cupcake.
+also i like cats and dogs and every animals even humans 
