@@ -6,7 +6,7 @@ interests:
     - Soccer
     - Music
     - Coding
-image: /members/template.jpeg
+image: /members/LoganV.jpeg
 website: https://Rgjmerc.github.io
 ---
 
